@@ -3,3 +3,6 @@
 Drivers-> Raw Data (Struct)-> Preprocessing-> Sensor Measurement-> Sensor Buffer-> SLAM
 Decoder will be inside driver.
 Parser will be inside preprocessor.
+
+##SLAM configurations
+Monocular camera: Camera index
